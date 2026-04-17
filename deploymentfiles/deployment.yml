@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: chilukurir/batch13:2
+        image: chilukurir/batch13:3
         ports:
         - containerPort: 8080
 
